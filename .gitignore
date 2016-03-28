@@ -9,7 +9,6 @@
 *.lib
 *.obj
 *.cobj
-*.cmp
 *.dll
 *.exe
 _del/*
