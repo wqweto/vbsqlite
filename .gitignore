@@ -8,7 +8,6 @@
 *.exp
 *.lib
 *.obj
-*.cobj
 *.dll
 *.exe
 _del/*
