@@ -1,6 +1,6 @@
 Type=Exe
 Reference=*\G{00020430-0000-0000-C000-000000000046}#2.0#0#..\..\..\..\Windows\SysWOW64\stdole2.tlb#OLE Automation
-Reference=*\G{EBE09496-E21A-4438-B433-208A40F70A67}#3.0#0#..\bin\VbSqlite.dll#VbSqlite Provider 3.11 (wqweto@gmail.com)
+Reference=*\G{EBE09496-E21A-4438-B433-208A40F70A67}#4.0#0#..\bin\VbSqlite.dll#VbSqlite Provider 0.1 (wqweto@gmail.com)
 Form=Form1.frm
 Startup="Form1"
 ExeName32="Project1.exe"
