@@ -1,5 +1,5 @@
 # Auto detect text files and perform LF normalization
-# * text eol=crlf
+* text eol=crlf
 
 *.dll -text
 *.cmp -text
