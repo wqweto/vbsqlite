@@ -1,3 +1,7 @@
+### UPDATE(2020-01-10)
+
+Note that this project is obsolete and incomplete. For a complete solution based on the ideas of this project do check out [sqlite3win32](https://github.com/VBForumsCommunity/sqlite3win32) spin off from [VBForumsCommunity](https://github.com/VBForumsCommunity) org.
+
 # VbSqlite
 Staticly compiled sqlite into a VB6 ActiveX dll
 
